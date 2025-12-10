@@ -1,5 +1,5 @@
 # SecuSpectra
-
+#sed
 A security system that simulates the reception of new files on a computer, detects suspicious files, assigns a suspicion score, and allows users to decide how to proceed — delete, reject, verify externally, open in an isolated Docker environment, approve, edit (if possible), or block the source.
 
 ## Table of Contents
